@@ -9,5 +9,6 @@ namespace ExpManager.Models
     public class BddContext : DbContext
     {
         public DbSet<Expense> Expenses { get; set; }
+        public DbSet<User> users { get; set; }
     }
 }

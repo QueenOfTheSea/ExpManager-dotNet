@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace ExpManager.Models
 {
-    interface IDal : IDisposable
+    interface UserDal : IDisposable
     {
-        void CreateExpense(string name, double amount, DateTime date, User user);
-        List<Expense> GetAllExpenses(User user);
+        void CreateUser(string login, string password);
     }
 }
