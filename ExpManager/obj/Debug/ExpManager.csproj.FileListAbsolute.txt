@@ -146,3 +146,4 @@ D:\ExpManager\ExpManager-dotNet\ExpManager\bin\Microsoft.Owin.Security.Microsoft
 D:\ExpManager\ExpManager-dotNet\ExpManager\obj\Debug\ExpManager.dll
 D:\ExpManager\ExpManager-dotNet\ExpManager\obj\Debug\ExpManager.pdb
 D:\ExpManager\ExpManager-dotNet\ExpManager\bin\Newtonsoft.Json.dll
+D:\ExpManager\ExpManager-dotNet\ExpManager\obj\Debug\ExpManager.csprojResolveAssemblyReference.cache

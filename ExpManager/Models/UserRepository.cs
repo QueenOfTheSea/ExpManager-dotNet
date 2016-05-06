@@ -16,8 +16,7 @@ namespace ExpManager.Models
 
         public void CreateUser(string login, string password)
         {
-            Db.users.Add(new User { Login=login, Password=password});
-            Db.SaveChanges();
+            throw new NotImplementedException();
         }
 
         public void Dispose()
